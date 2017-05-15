@@ -1,0 +1,5 @@
+C:\Users\02484107\Desktop\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.exe.config
+C:\Users\02484107\Desktop\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.exe
+C:\Users\02484107\Desktop\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.pdb
+C:\Users\02484107\Desktop\HuffmanCoding\HuffmanCoding\obj\Debug\HuffmanCoding.exe
+C:\Users\02484107\Desktop\HuffmanCoding\HuffmanCoding\obj\Debug\HuffmanCoding.pdb
